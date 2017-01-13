@@ -1,2 +1,3 @@
-	name: technicalfacts
-	markdown: kramdown
+name: technicalfacts
+markdown: kramdown
+permalink: /blog/:2017/:01/:13/technicalfacts
